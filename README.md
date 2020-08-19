@@ -1,4 +1,6 @@
-### dataDable
+# dataDable
+
+Sorting, filtering and sorting table data from json file
 
 ## How to run the app
 
